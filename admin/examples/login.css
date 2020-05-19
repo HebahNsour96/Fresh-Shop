@@ -1,0 +1,26 @@
+.login-wrap {
+    max-width: 540px;
+    margin-top: 50%;
+    padding-top: 8vh;
+    margin: 0 auto;
+}
+
+.login-form .form-group label {
+    padding-bottom: 20px;
+    display: block;
+}
+
+.login-content {
+    background: #fff;
+    padding: 30px 30px 20px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    margin-bottom: 50%;
+    border-radius: 2px;
+}
+
+.social-login-content {
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    padding: 20px 0px;
+}
